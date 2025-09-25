@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class asciinew {
+public class ascii {
 
     static String[][] s = {
         { " XXX  XXXX  XXXXX XXXX  XXXXX XXXXX XXXX  X   X XXXXX XXXXX X   X X     X   X X   X  XXX  XXXXX  XXX  XXXX  XXXXX XXXXX X   X X   X X   X X   X X   X XXXXX " },
@@ -216,3 +216,4 @@ public class asciinew {
         }
     }
 }
+
